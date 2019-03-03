@@ -2,6 +2,11 @@
 /*
 !/.gitignore
 
+!/app/
+/app/*
+!/app/preprocessor/
+!/app/preprocessor/*
+
 !/public/
 /public/*
 !/public/dist/
