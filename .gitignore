@@ -11,11 +11,13 @@
 /public/*
 !/public/dist/
 !/public/dist/*
-/public/dist/*.map
+!/public/dist/production/
+!/public/dist/production/*
+/public/dist/production/*.map
 
 !/react/
 /react/*
-!/react/servers/
-!/react/servers/*
-/react/servers/*.map
+!/react/production/
+!/react/production/*
+/react/production/*.map
 
